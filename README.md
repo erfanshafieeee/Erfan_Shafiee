@@ -8,7 +8,7 @@
 - 🔥 Passionate about **C++**, **Python**, and **Go**
 - 🌱 Currently learning **Go** and **Robotics**
 - 📫 Reach me via [Telegram](https://t.me/Erfan_Shafiee)
-- 👨‍💻 Check out my [resume]([https://github.com/erfanshafieeee/erfanshafieeee/blob/main/Erfan-Shafiee-Resume.pdf](https://github.com/erfanshafieeee/Erfan_Shafiee/blob/main/Erfan-Shafiee-Resume.pdf))
+- 👨‍💻 Check out my [resume]([https://github.com/erfanshafieeee/erfanshafieeee/blob/main/Erfan-Shafiee-Resume.pdf]
 - 💬 Ask me anything [here](https://github.com/erfanshafieeee/erfanshafieeee/issues)
 - ⚡ **Fun fact:** I enjoy learning something new every day!
 
